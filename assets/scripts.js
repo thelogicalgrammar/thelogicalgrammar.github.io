@@ -5,6 +5,7 @@ $(function() {
     $(".site-footer").load("assets/footer.html");
 
     $("#home-link").click(function(){
+        console.log("Test");
         $("#content-container").load("main.html")
     });
     $("#publications-link").click(function(){
