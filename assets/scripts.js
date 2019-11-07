@@ -1,5 +1,5 @@
 $(function() {
 
-    $("#site-header").load("assets/header.html");
+    $(".site-header").load("assets/header.html");
     console.log("test")
 });
