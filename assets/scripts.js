@@ -1,5 +1,5 @@
 $(function() {
 
-    $("#site-header").replaceWith("<div>hello!</div>");
+    $("#site-header").load("assets/header.html");
     console.log("test")
 });
