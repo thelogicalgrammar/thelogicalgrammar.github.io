@@ -1,3 +1,5 @@
 $(function() {
-    $("#site-header").load("header.html");
+
+    $("#site-header").replaceWith("header.html");
+    console.log("test")
 });
