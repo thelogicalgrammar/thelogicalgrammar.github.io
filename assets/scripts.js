@@ -2,8 +2,11 @@
 $(function() {
 
     $(".site-header").load("assets/header.html", function(){
+        // set default
+        $("#content-container").load("main.html");
+
+        // put a bunch of links to update the page
         $("#home-link").click(function(){
-            console.log("Test");
             $("#content-container").load("main.html")
         });
         $("#publications-link").click(function(){
