@@ -1,5 +1,3 @@
 $(function() {
-    $(function () {
-        $("#site-header").load("header.html");
-    });
+    $("#site-header").load("header.html");
 });
