@@ -1137,8 +1137,7 @@ input[type='button']:disabled,
     -ms-justify-content: space-between;
     justify-content: space-between;
     background-attachment: scroll, fixed;
-    background-color: #48515A;
-    background: linear-gradient(#48515A, black);
+    background-color: black;
     background-position: top left, top left;
     background-repeat: repeat, no-repeat;
     background-size: auto, auto 100%;
@@ -1149,7 +1148,7 @@ input[type='button']:disabled,
     position: fixed;
     text-align: right;
     top: 0;
-    width: 30%;
+    width: 20%;
 }
 
 #header > * {
@@ -1528,7 +1527,7 @@ body.is-touch .poptrox-popup .closer {
 
     #header {
         padding: 6em 3em 3em 3em;
-        width: 30%;
+        width: 20%;
     }
 
     #header h1 {
