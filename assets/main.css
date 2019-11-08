@@ -9,6 +9,8 @@
 
 #my-pic {
     float: left;
+    width: 30%;
+    padding-right: 5%;
 }
 
 /* Reset */
