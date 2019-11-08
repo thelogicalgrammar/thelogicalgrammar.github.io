@@ -17,5 +17,8 @@ $(function() {
     $("#contact-link").click(function(){
         $("#content-container").load("contact.html")
     });
+    $("#CV-link").click(function(){
+        $("#content-container").load("CV.html")
+    });
 
 });
