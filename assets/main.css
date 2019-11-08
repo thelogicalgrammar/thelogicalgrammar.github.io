@@ -608,8 +608,3 @@ pre > code {
     color: #099
 }
 
-.banner_image {
-    background: url(../images/beach.jpg) no-repeat center center;
-    background-size: cover;
-    height: 240px
-}
