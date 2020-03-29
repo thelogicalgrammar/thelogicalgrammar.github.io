@@ -23,7 +23,7 @@ $(function() {
     $("#CV-link").click(function(){
         $("#content-container").load("CV.html")
     });
-    $("#blog-jacobian").click(function(){
+    $(document).on('click', "#blog-jacobian", function(){
         $("#content-container").load("assets/blog/jacobian.html")
     });
 });
