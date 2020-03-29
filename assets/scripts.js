@@ -24,6 +24,6 @@ $(function() {
         $("#content-container").load("CV.html")
     });
     $("#blog-jacobian").click(function(){
-        $("#content-container").load("./blog/jacobian.html")
+        $("#content-container").load("assets/blog/jacobian.html")
     });
 });
