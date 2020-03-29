@@ -49,20 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/blog/jacobian.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="49" selection-start-column="49" selection-end-column="49" />
+            <state relative-caret-position="399">
+              <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -112,8 +103,8 @@
         <option value="$PROJECT_DIR$/publications.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/miscellany.html" />
-        <option value="$PROJECT_DIR$/assets/scripts.js" />
         <option value="$PROJECT_DIR$/assets/blog/jacobian.html" />
+        <option value="$PROJECT_DIR$/assets/scripts.js" />
       </list>
     </option>
   </component>
@@ -185,12 +176,12 @@
       <updated>1573141931704</updated>
       <workItem from="1573141932945" duration="37399000" />
       <workItem from="1581090433985" duration="607000" />
-      <workItem from="1585499264128" duration="4058000" />
+      <workItem from="1585499264128" duration="4741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42064000" />
+    <option name="totallyTimeSpent" value="42747000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -304,17 +295,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scripts.js">
+    <entry file="file://$PROJECT_DIR$/assets/blog/jacobian.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+        <state relative-caret-position="399">
+          <caret line="13648" selection-start-line="13648" selection-end-line="13648" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/blog/jacobian.html">
+    <entry file="file://$PROJECT_DIR$/assets/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="49" selection-start-column="49" selection-end-column="49" />
+        <state relative-caret-position="399">
+          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
         </state>
       </provider>
     </entry>
