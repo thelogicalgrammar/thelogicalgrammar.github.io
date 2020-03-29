@@ -26,5 +26,4 @@ $(function() {
     $("#blog-jacobian").click(function(){
         $("#content-container").load("./blog/jacobian.html")
     });
-
 });
