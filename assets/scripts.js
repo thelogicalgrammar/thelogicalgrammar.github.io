@@ -23,5 +23,8 @@ $(function() {
     $("#CV-link").click(function(){
         $("#content-container").load("CV.html")
     });
+    $("#blog-jacobian").click(function(){
+        $("#content-container").load("./blog/jacobian.html")
+    });
 
 });
