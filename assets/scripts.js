@@ -26,4 +26,7 @@ $(function() {
     $(document).on('click', "#blog-jacobian", function(){
         $("#content-container").html("<iframe id = jacobian-frame width = 700 height = 700 src='assets/blog/jacobian.html'></iframe>")
     });
+    $(document).on('click', "#blog-active-inference-discrete", function(){
+        $("#content-container").html("<iframe id = active-inference-frame width = 700 height = 700 src='assets/blog/activeInference.html'></iframe>")
+    });
 });
