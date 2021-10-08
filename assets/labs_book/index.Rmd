@@ -1,9 +1,0 @@
----
-title: Labs for the Cognitive Modelling course
-author: Fausto Carcassi
-date: "`r Sys.Date()`"
----
-
-# Preface {-}
-
-Here we go everyone!
